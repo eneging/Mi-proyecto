@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 
-  base: "https://eneging.github.io/Mi-proyecto/git"
+  base: "/Mi-proyecto/"
 
 
 })
